@@ -21,10 +21,11 @@ class Comix(models.Model):
         verbose_name_plural = 'Каталог товоров'
 
 
-class User(AbstractUser ):
+class CustomUser(AbstractUser ):
     username = models.CharField(max_length=255, unique=True)
     email = models.EmailField(max_length=255)
     password = models.CharField(max_length=255)
-    USERNAME_FIELD = 'username'
-    REQUIRED_FIELDS = []
+    # USERNAME_FIELD = 'username'
+    # REQUIRED_FIELDS = []
+
 

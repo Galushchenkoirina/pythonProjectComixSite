@@ -20,6 +20,7 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 from rest_framework import permissions
 from rest_framework_simplejwt import views as jwt_views
+from rest_framework_simplejwt.views import TokenRefreshView, TokenObtainPairView
 
 schema_view = get_schema_view(
     openapi.Info(
@@ -39,12 +40,7 @@ urlpatterns = [
     path('', include('comix.urls')),
     path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
     path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
-    path('token/', jwt_views.TokenObtainPairView.as_view(), name='token_obtain_pair'),
-    path('token/refresh/', jwt_views.TokenRefreshView.as_view(), name='token_refresh'),
+    # path('api/token/', CustomTokenObtainPairView.as_view(), name='token_obtain_pair'),
+    # path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
 
-
-
-
-    # path('token/verify', jwt_views.TokenVerifyView.as_view(), name='token_verify'),
-    # path('accounts/', include('accounts.urls')),
 ]
