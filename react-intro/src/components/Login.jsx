@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from './AuthContext'; // Импортируйте контекст аутентификации
+// import Modal from './Modal';
 
 const Login = () => {
     // Состояние для хранения имени пользователя и пароля

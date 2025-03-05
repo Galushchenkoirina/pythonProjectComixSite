@@ -2,11 +2,13 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import './index.css';
+import { useCart } from './cart/CartContext';
 
 const ImageLoader = ({ selectedCategory }) => {
     const [images, setImages] = useState([]); // Массив для хранения всех изображений
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
+     const { addToCart } = useCart();
 
     useEffect(() => {
         const fetchImages = async () => {
@@ -48,20 +50,28 @@ const ImageLoader = ({ selectedCategory }) => {
         return <p>{error}</p>;
     }
 
+    const handleAddToCart = (image) => {
+        addToCart(image); // Добавляем товар в корзину
+        alert(`${image.title} добавлен в корзину!`); // Уведомление пользователя
+    };
+
     return (
         <div className="all-book" style={{ flex: 1, display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between' }}>
             {filteredImages.length > 0 ? (
                 filteredImages.map((image) => (
                     <div className="image-item" key={image.id}
                          style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '200px' }}>
-                        <img
+
+                        <Link to={`/image/${image.id}`} style={{ textDecoration: 'none', color: 'black', width: '200px' }}>
+                            <img
                             src={image.link}
                             alt={`Изображение ${image.id}`}
                             style={{ width: '200px', height: 'auto' }} // Задаем ширину 100% для изображения
                         />
-                        <Link to={`/image/${image.id}`} style={{ textDecoration: 'none', color: 'black', width: '200px' }}>
-                            <div style={{ textAlign: 'center' }}>{image.title}</div>
+                            <div style={{textAlign: 'center', color: 'blue', fontWeight: 'bold'}}>{image.title}</div>
+                            <div style={{textAlign: 'center', color: 'red', fontWeight: 'bold'}}>{image.price}Br</div>
                         </Link>
+                        <button className="buy-button" onClick={() => handleAddToCart(image)}>Купить</button>
                     </div>
                 ))
             ) : (

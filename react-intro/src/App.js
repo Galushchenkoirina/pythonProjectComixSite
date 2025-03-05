@@ -7,60 +7,81 @@ import ImageDetail from './ImageDetail';
 import Register from './components/Register';
 import Login from './components/Login';
 import Logout from './components/Logout';
-import ProtectedPage from './ProtectedPage';
-import ProtectedRoute from './components/ProtectedRoute';
-
+// import ProtectedPage from './ProtectedPage';
+// import ProtectedRoute from './components/ProtectedRoute';
+import Footer from './components/Footer';
+import Delivery from './components/Delivery';
+import Payment from './components/Payment';
+import Touch from './components/Touch';
+import {CartProvider} from './cart/CartContext';
+import Cart from './cart/Cart';
+import ProductList from './cart/ProductList';
 import HomePage from './HomePage';
-// import Home from './components/Home';
+import './components/LogReg.css';
 import Entrance from './components/Entrance';
 import {AuthProvider} from './components/AuthContext';
 
+import SearchBar from './components/SearchBar';
+import SearchPage from './components/SearchPage';
+
 
 const App = () => {
-    const [selectedCategory, setSelectedCategory] = useState('all');
-    const [isModalOpen, setModalOpen] = useState(false);
-    const [modalType, setModalType] = useState('login');
-
-    const openModal = (type) => {
-        setModalType(type);
-        setModalOpen(true);
-    };
-
-    const closeModal = () => {
-        setModalOpen(false);
-    };
-
-    const isAuthenticated = !!localStorage.getItem('access_token');
-
-    return (
-        <AuthProvider>
-            <Router>
-                <main className="main">
-                    <Header openModal={openModal} isModalOpen={isModalOpen} closeModal={closeModal}
-                            modalType={modalType}/>
-                    <div className="container">
-                        <div className="book-content" id="book-content">
-                            <Categories selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory}/>
-                        </div>
-                        <div className="main-content" id="main-content">
-                            <Routes>
-                                <Route path="/" element={<ProtectedRoute><HomePage/></ProtectedRoute>}/>
-                                <Route path="/image" element={<ProtectedRoute><ImageLoader
-                                    selectedCategory={selectedCategory}/></ProtectedRoute>}/>
-                                <Route path="/image/:id" element={<ProtectedRoute><ImageDetail/></ProtectedRoute>}/>
+        const [selectedCategory, setSelectedCategory] = useState('all');
+        const [searchQuery, setSearchQuery] = useState(''); // Состояние для поискового запроса
+        // const [searchResults, setSearchResults] = useState([]);
+        const isAuthenticated = !!localStorage.getItem('access_token');
 
 
-                                <Route path="/login" element={<Login/>}/>
-                                <Route path="/register" element={<Register/>}/>
-                                <Route path="/protected" element={<ProtectedRoute><ProtectedPage/></ProtectedRoute>}/>
-                                <Route path="/logout" element={<Logout/>}/>
-                            </Routes>
-                        </div>
-                    </div>
-                </main>
-            </Router>
-        </AuthProvider>
-    );
-};
+//     const handleSearch = (query) => {
+//         setSearchQuery(query); // Обновляем поисковый запрос
+//     const results = []; // Получите результаты на основе query
+//     setSearchResults(results);
+// };
+
+        return (
+            <AuthProvider>
+                <CartProvider>
+                    <Router>
+                        <main className="main">
+                            <Header/>
+
+                            <div className="container">
+                                <div className="book-content" id="book-content">
+
+                                    <Categories selectedCategory={selectedCategory}
+                                                setSelectedCategory={setSelectedCategory}/>
+                                </div>
+                                <div className="main-content" id="main-content">
+                                    <Routes>
+                                        <Route path="/" element={<HomePage/>}/>
+                                        <Route path="/image" element={<ImageLoader selectedCategory={selectedCategory}/>}/>
+                                        <Route path="/image/:id" element={<ImageDetail/>}/>
+                                        <Route path="/login" element={<Login/>}/>
+                                        <Route path="/register" element={<Register/>}/>
+                                        {/*<Route path="/protected" element={<ProtectedRoute><ProtectedPage/></ProtectedRoute>}/>*/}
+                                        <Route path="/logout" element={<Logout/>}/>
+                                        <Route path="/delivery" element={<Delivery/>}/>
+                                        <Route path="/payment" element={<Payment/>}/>
+                                        <Route path="/touch" element={<Touch/>}/>
+                                        <Route path="/cart" element={<Cart/>}/>
+                                        <Route path="/product-list" element={<ProductList/>}/>
+                                        <Route path="/search" element={<SearchPage/>}/>
+                                    </Routes>
+                                </div>
+                            </div>
+                        </main>
+                        <Footer/>
+                    </Router>
+                </CartProvider>
+            </AuthProvider>
+        );
+    }
+;
 
 export default App;
+
+//
+// <Route path="/" element={<ProtectedRoute><HomePage/></ProtectedRoute>}/>
+// <Route path="/image" element={<ProtectedRoute><ImageLoader selectedCategory={selectedCategory}/></ProtectedRoute>}/>
+// <Route path="/image/:id" element={<ProtectedRoute><ImageDetail/></ProtectedRoute>}/>
+// <Route path="/protected" element={<ProtectedRoute><ProtectedPage/></ProtectedRoute>}/>

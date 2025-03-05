@@ -3,11 +3,23 @@
     padding: 0;
 }
 
-header {
+.header .container {
     background-color: maroon;
     width: 100%;
     height: 100px;
     padding: 46px 0;
+    display: flex;
+    align-items: center;
+}
+
+.global {
+    background-color: white;
+    width: 100%;
+    height: 0px;
+    padding: 26px 0px;
+    display: flex;
+    align-items: center;
+    color: maroon;
 }
 
 html {
@@ -28,10 +40,6 @@ root {
     overflow: hidden;
 }
 
-.header .container {
-    display: flex;
-    align-items: center;
-}
 
 .menu {
     margin-left: 25px;
@@ -66,6 +74,52 @@ root {
     margin-right: 25px;
 }
 
+.global-menu {
+    margin-left: 15px;
+    margin-right: auto;
+    color: maroon;
+}
+
+.global-menu ul {
+    list-style: none;
+    display: flex;
+    gap: 65px;
+}
+
+.global-menu ul a {
+    font-size: 18px;
+    color: maroon;
+    text-decoration: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
 
 .container {
     display: flex;
@@ -81,7 +135,7 @@ root {
 
 
 .image-item {
-    flex: 0 0 calc(33.33%);
+    flex: 0 0 calc(25%);
     margin: 0px;
     text-align: center;
     padding-top: 60px;
@@ -122,6 +176,7 @@ root {
     outline: none;
     background-color: maroon;
 }
+
 .book-filter ul a {
     font-size: 18px;
     color: #ffffff;
@@ -162,13 +217,13 @@ root {
 
 
 h1 {
-    color: blue;
+    color: black;
     text-align: center;
 }
 
 p {
     font-size: 20px;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 /* src/components/Modal.css */
@@ -208,7 +263,20 @@ p {
     cursor: pointer;
 }
 
+.buy-button {
+    background-color: orange; /* Зеленый фон */
+    color: white; /* Белый текст */
+    border: none; /* Без рамки */
+    padding: 10px 20px; /* Отступы */
+    font-size: 16px; /* Размер шрифта */
+    cursor: pointer; /* Указатель мыши */
+    border-radius: 5px; /* Закругленные углы */
+    transition: background-color 0.3s; /* Плавный переход цвета */
+}
 
+.buy-button:hover {
+    background-color: #ffc107; /* Темнее при наведении */
+}
 
 
 

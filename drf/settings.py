@@ -34,7 +34,6 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
 ]
 
-
 CSRF_TRUSTED_ORIGINS = [
     'http://localhost'
     'http://127.0.0.1'
@@ -60,7 +59,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework_simplejwt',
     'rest_framework_simplejwt.token_blacklist',
-
+    'django_filters',
 ]
 
 MIDDLEWARE = [

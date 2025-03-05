@@ -8,27 +8,32 @@ from rest_framework.views import APIView
 from rest_framework import filters, generics, status
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework_simplejwt.tokens import RefreshToken
-from rest_framework import status
-from .serializers import CustomUserSerializer
-
+from django_filters import rest_framework as filters
 from rest_framework.generics import CreateAPIView
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
-
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
-from django.shortcuts import render
-
+# from .serializers import CustomUserSerializer
 from .serializers import *
-import csv
 from .models import Comix, CustomUser
-from django.shortcuts import render
 
 
+
+class ComixFilter(filters.FilterSet):
+    title = filters.CharFilter(field_name='title', lookup_expr='icontains')
+
+    class Meta:
+        model = Comix
+        fields = ['title']
 
 class ComixViewSet(viewsets.ModelViewSet):
     queryset = Comix.objects.all()
     serializer_class = ComixSerializer
     permission_classes = [permissions.AllowAny]
     serializer_class = ComixSerializer
+    filter_backends = (filters.DjangoFilterBackend,)
+    filterset_class = ComixFilter
+
+
 
 class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
     @classmethod
@@ -47,9 +52,6 @@ class CustomTokenRefreshView(TokenRefreshView):
     def post(self, request, *args, **kwargs):
         return super().post(request, *args, **kwargs)
 
-
-# class CustomTokenRefreshView(TokenRefreshView):
-#     pass  # Здесь можно добавить дополнительную логику, если это необходимо
 
 class RegistrationAPIView(APIView):
     def post(self, request):
@@ -97,15 +99,3 @@ class Profile(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
 
 
-# class LogoutView(APIView):
-#     permission_classes = (IsAuthenticated,)
-#     def post(self, request):
-#         try:
-#             refresh_token = request.data["refresh_token"]
-#             token = RefreshToken(refresh_token)
-#             token.blacklist()
-#             return Response(status=status.HTTP_205_RESET_CONTENT)
-#         except Exception as e:
-#             return Response(status=status.HTTP_400_BAD_REQUEST)
-#
-#

@@ -20,3 +20,4 @@ const Categories = ({ selectedCategory, setSelectedCategory }) => {
 };
 
 export default Categories;
+
