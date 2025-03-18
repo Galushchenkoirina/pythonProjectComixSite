@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {BrowserRouter as Router, Routes, Route, Navigate, Link} from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Header from './components/Header';
 import Categories from './Categiries';
 import ImageLoader from './ImageLoader';
@@ -18,25 +18,21 @@ import Cart from './cart/Cart';
 import ProductList from './cart/ProductList';
 import HomePage from './HomePage';
 import './components/LogReg.css';
-import Entrance from './components/Entrance';
+// import Entrance from './components/Entrance';
 import {AuthProvider} from './components/AuthContext';
-
-import SearchBar from './components/SearchBar';
+// import SearchBar from './components/SearchBar';
 import SearchPage from './components/SearchPage';
+import Checkout from './cart/Checkout';
+
+
+// import Navigation from './cart/Navigation'; // Ваш компонент навигации
 
 
 const App = () => {
         const [selectedCategory, setSelectedCategory] = useState('all');
-        const [searchQuery, setSearchQuery] = useState(''); // Состояние для поискового запроса
-        // const [searchResults, setSearchResults] = useState([]);
-        const isAuthenticated = !!localStorage.getItem('access_token');
+        // const [searchQuery, setSearchQuery] = useState(''); // Состояние для поискового запроса
+        // const isAuthenticated = !!localStorage.getItem('access_token');
 
-
-//     const handleSearch = (query) => {
-//         setSearchQuery(query); // Обновляем поисковый запрос
-//     const results = []; // Получите результаты на основе query
-//     setSearchResults(results);
-// };
 
         return (
             <AuthProvider>
@@ -66,6 +62,9 @@ const App = () => {
                                         <Route path="/cart" element={<Cart/>}/>
                                         <Route path="/product-list" element={<ProductList/>}/>
                                         <Route path="/search" element={<SearchPage/>}/>
+                                        <Route path="/checkout" element={<Checkout/>}/>
+                                         {/*<Cart />*/}
+                                        {/*<Route path="/order-confirmation" element={<Cart />}/>*/}
                                     </Routes>
                                 </div>
                             </div>

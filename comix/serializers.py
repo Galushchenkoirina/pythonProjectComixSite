@@ -1,9 +1,9 @@
 from rest_framework import serializers
-from .models import Comix, CustomUser
+from .models import Comix, CustomUser, Order
 from django.contrib.auth.models import User
-from rest_framework import serializers
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenRefreshView
+
 
 class ComixSerializer(serializers.ModelSerializer):
     class Meta:
@@ -25,6 +25,7 @@ class CustomUserSerializer(serializers.ModelSerializer):
         user.save()
         return user
 
+
 class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
     email = serializers.EmailField(required=True)
 
@@ -42,6 +43,22 @@ class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
         return data
 
 
-# class CustomTokenRefreshView(TokenRefreshView):
-#     def post(self, request, *args, **kwargs):
-#         return super().post(request, *args, **kwargs)
+
+class OrderSerializer(serializers.ModelSerializer):
+    items = serializers.ListField(
+        child=serializers.DictField(
+            child=serializers.CharField()
+        )
+    )
+
+    class Meta:
+        model = Order
+        fields = ['id', 'name', 'address', 'phone', 'email', 'payment_method', 'delivery_method', 'total', 'items']
+
+    def create(self, validated_data):
+        # Создаем заказ с переданными данными
+        order = Order.objects.create(**validated_data)
+        return order
+
+
+#

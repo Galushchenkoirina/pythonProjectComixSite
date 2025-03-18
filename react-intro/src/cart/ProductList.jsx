@@ -2,22 +2,49 @@ import React from 'react';
 import { useCart } from './CartContext';
 
 const ProductList = () => {
-    const { cartItems } = useCart(); // Получаем товары из корзины
+    const { cart, updateQuantity, removeFromCart } = useCart(); // Исправлено: используем cart вместо cartItems
+
+    // Функция для подсчета итоговой суммы
+    const calculateTotal = () => {
+        return cart.reduce((total, item) => total + item.price * item.quantity, 0).toFixed(2);
+    };
 
     return (
         <div>
             <h2>Корзина</h2>
-            {cartItems.length === 0 ? (
+            {cart.length === 0 ? ( // Проверяем длину cart
                 <p>Корзина пуста</p>
             ) : (
-                <ul>
-                    {cartItems.map((item) => (
-                        <li key={item.id}>
-                            <div>{item.title} - {item.quantity} шт. - {item.price} Br</div>
-                        </li>
-                    ))}
-                </ul>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Товар</th>
+                            <th>Количество</th>
+                            <th>Цена</th>
+                            <th>Итого</th>
+                            <th>Действия</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {cart.map((item) => ( // Используем cart для отображения товаров
+                            <tr key={item.id}>
+                                <td>{item.title}</td>
+                                <td>
+                                    <button onClick={() => updateQuantity(item.id, item.quantity - 1)} disabled={item.quantity === 1}>-</button>
+                                    {item.quantity}
+                                    <button onClick={() => updateQuantity(item.id, item.quantity + 1)}>+</button>
+                                </td>
+                                <td>{item.price} Br</td>
+                                <td>{(item.price * item.quantity).toFixed(2)} Br</td>
+                                <td>
+                                    <button onClick={() => removeFromCart(item.id)}>Удалить</button>
+                                </td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
             )}
+            <h3>Итого: {calculateTotal()} Br</h3>
         </div>
     );
 };
@@ -29,56 +56,3 @@ export default ProductList;
 
 
 
-
-// import React, { useEffect, useState } from 'react';
-// import { useCart } from './CartContext';
-//
-// const ProductList = () => {
-//     const { addToCart } = useCart();
-//     const [products, setProducts] = useState([]); // Состояние для хранения товаров
-//     const [loading, setLoading] = useState(true); // Состояние загрузки
-//     const [error, setError] = useState(null); // Состояние для ошибок
-//
-//     useEffect(() => {
-//         const fetchProducts = async () => {
-//             try {
-//                 const response = await fetch('http://localhost:8000/products'); // Замените на ваш API URL
-//                 if (!response.ok) {
-//                     throw new Error('Ошибка при загрузке данных');
-//                 }
-//                 const data = await response.json();
-//                 setProducts(data); // Установите загруженные товары в состояние
-//             } catch (err) {
-//                 setError(err.message); // Установите сообщение об ошибке
-//             } finally {
-//                 setLoading(false); // Установите состояние загрузки в false
-//             }
-//         };
-//
-//         fetchProducts();
-//     }, []); // Пустой массив зависимостей, чтобы выполнить эффект только один раз при монтировании
-//
-//     // Если данные загружаются, покажите индикатор загрузки
-//     if (loading) {
-//         return <p>Загрузка товаров...</p>;
-//     }
-//
-//     // Если произошла ошибка, покажите сообщение об ошибке
-//     if (error) {
-//         return <p>Ошибка: {error}</p>;
-//     }
-//
-//     return (
-//         <div className="product-list">
-//             {products.map(product => (
-//                 <div key={product.id}>
-//                     <h3>{product.name}</h3>
-//                     <p>Цена: {product.price}₽</p>
-//                     <button onClick={() => addToCart(product)}>Добавить в корзину</button>
-//                 </div>
-//             ))}
-//         </div>
-//     );
-// };
-//
-// export default ProductList;

@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
@@ -7,9 +7,9 @@ const Footer = () => {
             <div className="footer-content">
                 <p>&copy; {new Date().getFullYear()} COMIX.BY</p>
                 <ul className="footer-links">
-                    <li><a href="/about">Корзина</a></li>
-                    <li><a href="/contact">Оформить заказ</a></li>
-                    <li><a href="/privacy">Магазин</a></li>
+                    <li><a href="#">Корзина</a></li>
+                    <li><Link to="/checkout">Оформить заказ</Link></li>
+                    <li><a href="#">Магазин</a></li>
                 </ul>
             </div>
         </footer>
@@ -17,3 +17,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+
