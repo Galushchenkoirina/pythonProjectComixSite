@@ -14,7 +14,7 @@ import Delivery from './components/Delivery';
 import Payment from './components/Payment';
 import Touch from './components/Touch';
 import {CartProvider} from './cart/CartContext';
-import Cart from './cart/Cart';
+// import Cart from './cart/Cart';
 import ProductList from './cart/ProductList';
 import HomePage from './HomePage';
 import './components/LogReg.css';
@@ -23,6 +23,7 @@ import {AuthProvider} from './components/AuthContext';
 // import SearchBar from './components/SearchBar';
 import SearchPage from './components/SearchPage';
 import Checkout from './cart/Checkout';
+
 
 
 // import Navigation from './cart/Navigation'; // Ваш компонент навигации
@@ -59,7 +60,7 @@ const App = () => {
                                         <Route path="/delivery" element={<Delivery/>}/>
                                         <Route path="/payment" element={<Payment/>}/>
                                         <Route path="/touch" element={<Touch/>}/>
-                                        <Route path="/cart" element={<Cart/>}/>
+                                        {/*<Route path="/cart" element={<Cart/>}/>*/}
                                         <Route path="/product-list" element={<ProductList/>}/>
                                         <Route path="/search" element={<SearchPage/>}/>
                                         <Route path="/checkout" element={<Checkout/>}/>

@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import axios from 'axios';
-import { useAuth } from './AuthContext';
+import { useAuth } from './AuthContext'; // Убедитесь, что путь к вашему контексту правильный
 import { useNavigate } from 'react-router-dom';
-// import Modal from './Modal';
+import axios from 'axios';
+import './LogReg.css'; // Импорт стилей
 
 const Register = () => {
     const [username, setUsername] = useState('');
@@ -37,10 +37,10 @@ const Register = () => {
     };
 
     return (
-        <div>
-            <h2>Регистрация</h2>
-            <form onSubmit={handleRegister}>
-                <div>
+        <div className="register-container">
+            <h2 className="register-title">Регистрация</h2>
+            <form onSubmit={handleRegister} className="register-form">
+                <div className="form-group">
                     <label htmlFor="username">Имя пользователя:</label>
                     <input
                         type="text"
@@ -48,9 +48,10 @@ const Register = () => {
                         value={username}
                         onChange={(e) => setUsername(e.target.value)}
                         required
+                        className="form-input"
                     />
                 </div>
-                <div>
+                <div className="form-group">
                     <label htmlFor="password">Пароль:</label>
                     <input
                         type="password"
@@ -58,21 +59,15 @@ const Register = () => {
                         value={password}
                         onChange={(e) => setPassword(e.target.value)}
                         required
+                        className="form-input"
                     />
                 </div>
-                {error && <p style={{ color: 'red' }}>{error}</p>} {/* Сообщение об ошибке */}
-                <button type="submit">Зарегистрироваться</button>
+                {error && <p className="error-message">{error}</p>} {/* Сообщение об ошибке */}
+                <button type="submit" className="register-button">Зарегистрироваться</button>
             </form>
         </div>
     );
 };
 
 export default Register;
-
-
-
-
-
-
-
 
