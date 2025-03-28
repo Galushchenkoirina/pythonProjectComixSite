@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+
+
+
+<html class="color_scheme_red font_family_google_fira">
+
+<head>
+    <meta name="yandex-verification" content="d6a8d0f5794e2a60" />
+    <meta name="google-site-verification" content="cXoFVPWeQYPH-z_Suun8688d9G_z4FLhNXoX2A8YEW4" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+
+    <title>Комиксы. Магазин комиксов. Купить комиксы в Минске</title>
+    <meta name="Keywords" content="Комиксы, манга, артбуки" />
+    <meta name="Description" content="Графические романы, развлекательные, образовательные комиксы в Минске. Доставка по Беларуси. Всегда много бонусов, скидок и акций." />
+
+        <link rel="shortcut icon" href="/favicon.ico"/>
+            <!-- rss -->
+                        
+
+    <!-- css -->
+    <link href="/wa-data/public/site/themes/default/default.css?v3.3.2.72" rel="stylesheet" type="text/css"/>
+         
+                                                                            <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,500,700,400italic,500italic,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    
+    <!-- js -->
+    <script type="text/javascript" src="/wa-content/js/jquery/jquery-1.11.1.min.js" ></script>
+    <script type="text/javascript" src="/wa-content/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="/wa-data/public/site/themes/default/default.js?v3.3.2.72"></script>
+
+     
+
+    <!-- shop app css -->
+<link href="/wa-data/public/shop/themes/default/default.shop.css?v3.3.2.72" rel="stylesheet" type="text/css">
+<link href="/wa-data/public/shop/themes/default/jquery.bxslider.css?v3.3.2.72" rel="stylesheet" />
+<link href="/wa-data/public/shop/themes/default/jquerycountdowntimer/css/jquery.countdownTimer.css" rel="stylesheet" type="text/css">
+
+<!-- js -->
+<script type="text/javascript" src="/wa-apps/shop/js/lazy.load.js?v7.5.1.287"></script>
+<script type="text/javascript" src="/wa-data/public/shop/themes/default/jquery.bxslider.min.js?v3.3.2.72"></script>
+<script type="text/javascript" src="/wa-data/public/shop/themes/default/jquerycountdowntimer/jquery.countdownTimer.min.js?v=1.10.8"></script>
+<script type="text/javascript" src="/wa-content/js/jquery-plugins/jquery.cookie.js?v1.10.8"></script>
+<script type="text/javascript" src="/wa-data/public/shop/themes/default/default.shop.js?v3.3.2.72"></script>
+
+
+
+<!-- plugin hook: 'frontend_head' -->
+
+
+
+    <meta property="og:description" content="Магазин комиксов в Минске - comix.by предлагает вашему вниманию комиксы на русском языке от таких издателей, как Marvel, DC Comics, Image Comics, Dark Horse, Disney и другие.
+Осуществляем курьерскую доставку по Минску и почтовые отправления по все Беларуси. Комиксы можно забрать самому по адресу улица Кальварийская 1 после заказа и подтверждения.
+Купить комиксы в нашем магазине просто, достаточно выбрать понравившейся комикс, добавить его в корзину и оформить заказ. 
+" />
+<meta property="og:url" content="https://comix.by/" />
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(80527222, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/80527222" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-113446036-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+
+    <!-- custom colors -->
+    <style>
+         html, body { color: #000000; }          a { color: #006bd8; }          a:hover { color: #ff0000; }          a:visited { color: #8855cc; }                     .hint,
+            .breadcrumbs,
+            .breadcrumbs a,
+            .breadcrumbs span.rarr,
+            table.features tr.divider td,
+            .bestsellers .bestsellers-header,
+            ul.thumbs li span.summary,
+            .review .summary,
+            .review .summary .date,
+            ul.albums li .count,
+            .album-note,
+            .credentials .username, .credentials .username a { color: #191919; }
+                                    </style>
+
+    <!--[if lt IE 9]>
+    <script>
+    document.createElement('header');
+    document.createElement('nav');
+    document.createElement('section');
+    document.createElement('article');
+    document.createElement('aside');
+    document.createElement('footer');
+    document.createElement('figure');
+    document.createElement('hgroup');
+    document.createElement('menu');
+    </script>
+    <![endif]-->
+</head>
+<body>
+    <header class="globalheader" style="">
+                    <!-- GLOBAL NAVIGATION -->
+            <div id="globalnav" class="light andgray">
+                <div class="container">
+
+                                        <h2>
+                        <a href="/">
+                                                            comix.by
+                                                    </a>
+                    </h2>
+                    
+                    <button id="mobile-nav-toggle"><!-- nav toggle for mobile devices --></button>
+
+                    <nav>
+
+                                                    <!-- user auth -->
+                            <ul class="auth">
+
+                                                                    <li><a href="/login/" class="not-visited">Вход</a></li>
+                                    <li><a href="/signup/" class="not-visited">Регистрация</a></li>
+                                                            </ul>
+                        
+                                                    <!-- cart -->
+                                                        <div id="cart" class="cart empty">
+                                 <a href="/cart/" class="cart-summary">
+                                     <i class="cart-icon"></i>
+                                     <strong class="cart-total">0 Br</strong>
+                                 </a>
+                                 <div id="cart-content">
+                                     
+                                 </div>
+                                 <a href="/cart/" class="cart-to-checkout" style="display: none;">
+                                     Посмотреть корзину
+                                 </a>
+                            </div>
+                        
+                        <!-- core site sections (apps) -->
+                        <ul class="apps">
+                                                                                                                                                                                                                    <li><a href="/delivery/">Доставка</a></li>
+                                                                                                                                <li><a href="/oplata/">Оплата</a></li>
+                                                                                                                                <li><a href="/kontakty/">Контакты</a></li>
+                                                                                                                                <li><a href="/kak-zakazat/">Как заказать</a></li>
+                                                                                    </ul>
+
+                    </nav>
+                    <div class="clear-both"></div>
+
+                </div>
+            </div>
+
+        
+        <!-- APP NAVIGATION -->
+        <div class="container appnav" id="header-container" style="border-top: 1px solid transparent;">
+            
+                     
+
+
+                <!-- plugin hook: 'frontend_nav' -->
+    
+            <!-- product search -->
+    <div class="phone-h"> <span itemprop="telephone">+375 29 6150153</span></div>
+    <form method="get" action="/search/" class="search">
+        <div class="search-wrapper">
+            <input id="search" type="search" name="query"  placeholder="Найти товары">
+            <button type="submit"></button>
+            
+        </div>
+    </form>
+    <ul class="pages flyout-nav">
+
+        
+            
+                
+
+                <li class="collapsible">
+                    <a href="/" class="bold">Каталог товаров</a>
+                    <div class="flyout">
+                        <div class="container">
+                                                            <div class="departments">
+                                    <ul class="menu-v"><li><a href="/category/artbuki-entsiklopedii/" title="Артбуки, энциклопедии">Артбуки, энциклопедии</a></li><li><a href="/category/knigi/" title="Книги">Книги</a></li><li><a href="/category/komiksy/" title="Комиксы">Комиксы</a></li><li><a href="/category/manga/" title="Манга">Манга</a></li><li><a href="/category/ranobe/" title="Ранобэ">Ранобэ</a></li><li><a href="/category/bestsellery/" title="Бестселлеры">Бестселлеры</a></li><li><a href="/category/prochee/" title="Прочее">Прочее</a></li><li><a href="/category/rasprodazha/" title="Распродажа">Распродажа</a></li></ul>
+                                </div>
+                                                    </div>
+                    </div>
+                </li>
+
+            
+            
+            
+        
+
+        
+
+        
+
+    </ul>
+
+
+
+                        <div class="clear-both"></div>
+        </div>
+
+    </header>
+
+    <!-- APP CONTENT -->
+    <main class="maincontent">
+        <div class="container">
+            <!-- plugin hook: 'frontend_header' -->
+
+
+    
+<div class="content" id="page-content" itemscope itemtype="http://schema.org/Store">
+                                
+    <!-- internal navigation breadcrumbs -->
+    
+    
+<div class="sidebar left-sidebar">
+
+    <!-- ROOT CATEGORIES -->
+                                <ul class="tree">
+                                    <li>
+                        <a href="/category/artbuki-entsiklopedii/">Артбуки, энциклопедии</a>
+                    </li>
+                                    <li>
+                        <a href="/category/knigi/">Книги</a>
+                    </li>
+                                    <li>
+                        <a href="/category/komiksy/">Комиксы</a>
+                    </li>
+                                    <li>
+                        <a href="/category/manga/">Манга</a>
+                    </li>
+                                    <li>
+                        <a href="/category/ranobe/">Ранобэ</a>
+                    </li>
+                                    <li>
+                        <a href="/category/bestsellery/">Бестселлеры</a>
+                    </li>
+                                    <li>
+                        <a href="/category/prochee/">Прочее</a>
+                    </li>
+                                    <li>
+                        <a href="/category/rasprodazha/">Распродажа</a>
+                    </li>
+                            </ul>
+            
+    <!-- BULLETS -->
+    <section class="bullets">
+                        
+            <h4><span class="b-glyph b-payment"></span> Доставка по Минску и всей Беларуси</h4>
+            <p>Самовывоз в Минске - Кальварийская, 1 (предварительная бронь). Доставка по Беларуси от 4 рублей</p>
+        </figure>
+                        
+            <h4><span class="b-glyph b-location"></span> Поступление новинок</h4>
+            <p>Обновление каталога каждый вторник</p>
+        </figure>
+            </section>
+
+    <!-- FOLLOW -->
+    <aside class="connect">
+                                
+    </aside>
+
+</div>
+
+<div class="content with-sidebar left-sidebar">
+
+        
+    
+    
+            <!-- PROMOS -->
+        <section class="promos">
+            <ul>
+                <li id="s-promo-1">
+                    <a href="http://comix.by/" style="background-image: url('/wa-data/public/shop/promos/1.900.jpg?v=1511103580');">
+                        <div class="background-color-layer"></div>
+                        <h5 style="color: #ffffff;">Более 4000+ комиксов и манги</h5>                        
+                    </a>
+                </li><li id="s-promo-2">
+                    <a href="http://comix.by/" style="background-image: url('/wa-data/public/shop/promos/2.900.jpg?v=1511103580');">
+                        <div class="background-color-layer"></div>
+                        <h5 style="color: #ffffff;">Низкие цены. Нашли дешевле чем у нас? Сделаем еще дешевле!</h5>                        
+                    </a>
+                </li><li id="s-promo-3">
+                    <a href="http://comix.by/" style="background-image: url('/wa-data/public/shop/promos/3.900.jpg?v=1511103580');">
+                        <div class="background-color-layer"></div>
+                        <h5 style="color: #ffffff;">Надёжно упакуем. 100% без повреждений!</h5>                        
+                    </a>
+                </li><li id="s-promo-4">
+                    <a href="http://comix.by/" style="background-image: url('/wa-data/public/shop/promos/4.900.jpg?v=1511103580');">
+                        <div class="background-color-layer"></div>
+                        <h5 style="color: #ffffff;">Новинки каждый вторник</h5>                        
+                    </a>
+                </li>            </ul>
+        </section>
+    
+    <!-- plugin hook: 'frontend_homepage' -->
+    
+        <h1 style="text-align: center;">Магазин комиксов в Минске</h1>
+<!-- BESTSELLERS product list -->
+        <section class="bestsellers">
+                            <h5 class="bestsellers-header">Новые поступления на 27 ноября 2024</h5>
+                        
+                           <!-- products thumbnail list view -->
+
+
+
+<ul class="thumbs product-list">
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-stambulskie-khroniki/" title="Комикс Стамбульские хроники">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Стамбульские хроники" title="Комикс Стамбульские хроники" src="/wa-data/public/shop/products/74/26/302674/images/276133/452104099_komiks-stambulskie-hroniki.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Стамбульские хроники</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">36,40 Br</span>
+                        <meta itemprop="price" content="36.4">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302674">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Стамбульские хроники теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-drevneyshiy-epos-v-komikse-gilgamesh/" title="Комикс Древнейший эпос в комиксе. Гильгамеш.">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Древнейший эпос в комиксе. Гильгамеш." title="Комикс Древнейший эпос в комиксе. Гильгамеш." src="/wa-data/public/shop/products/73/26/302673/images/276132/452104098_komiks-drevnejshij-epos.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Древнейший эпос в комиксе. Гильгамеш.</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">40,70 Br</span>
+                        <meta itemprop="price" content="40.7">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302673">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Древнейший эпос в комиксе. Гильгамеш. теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-mayor-grom-i-krasnaya-furiya-tom-7-v-serdtse-tmy/" title="Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы" title="Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы" src="/wa-data/public/shop/products/72/26/302672/images/276131/452104097_komiks-major-grom.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">23,20 Br</span>
+                        <meta itemprop="price" content="23.2">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302672">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-zvezdopad-1-zheleznobokiy/" title="Комикс Звездопад #1 Железнобокий">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Звездопад #1 Железнобокий" title="Комикс Звездопад #1 Железнобокий" src="/wa-data/public/shop/products/71/26/302671/images/276130/452104096_komiks-zvezdopad-1.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Звездопад #1 Железнобокий</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">7,90 Br</span>
+                        <meta itemprop="price" content="7.9">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302671">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Звездопад #1 Железнобокий теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-zvezdopad-2-sol-zemli/" title="Комикс Звездопад #2 Соль Земли">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Звездопад #2 Соль Земли" title="Комикс Звездопад #2 Соль Земли" src="/wa-data/public/shop/products/70/26/302670/images/276129/452104095_komiks-zvezdopad-2.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Звездопад #2 Соль Земли</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">7,90 Br</span>
+                        <meta itemprop="price" content="7.9">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302670">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Звездопад #2 Соль Земли теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/manga-nanomashiny-tom-1-nano-machine-mankhva/" title="Манга Наномашины. Том 1 (Nano Machine). Манхва">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Манга Наномашины. Том 1 (Nano Machine). Манхва" title="Манга Наномашины. Том 1 (Nano Machine). Манхва" src="/wa-data/public/shop/products/69/26/302669/images/276128/452104094_manga-nanomashiny-tom.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Манга Наномашины. Том 1 (Nano Machine). Манхва</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">65,70 Br</span>
+                        <meta itemprop="price" content="65.7">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302669">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Манга Наномашины. Том 1 (Nano Machine). Манхва теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-lyubov-korolya-tom/" title="Книга Любовь короля. Том">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга Любовь короля. Том" title="Книга Любовь короля. Том" src="/wa-data/public/shop/products/68/26/302668/images/276127/452104093_kniga-lyubov-korolya.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга Любовь короля. Том</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">34,80 Br</span>
+                        <meta itemprop="price" content="34.8">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302668">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга Любовь короля. Том теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-world-of-warcraft-rassvet-aspektov/" title="Книга World of Warcraft. Рассвет Аспектов">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга World of Warcraft. Рассвет Аспектов" title="Книга World of Warcraft. Рассвет Аспектов" src="/wa-data/public/shop/products/67/26/302667/images/276126/452104092_kniga-world-of.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга World of Warcraft. Рассвет Аспектов</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">22,10 Br</span>
+                        <meta itemprop="price" content="22.1">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302667">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга World of Warcraft. Рассвет Аспектов теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-blagie-znameniya-kollektsionnoe-izdanie-oformlenie-azirafaelya/" title="Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля" title="Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля" src="/wa-data/public/shop/products/66/26/302666/images/276125/452104091_kniga-blagie-znameniya.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">30,30 Br</span>
+                        <meta itemprop="price" content="30.3">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302666">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-stryapaem-istorii-s-sashey-mitkalovoy/" title="Комикс Стряпаем истории с Сашей Миткаловой">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Стряпаем истории с Сашей Миткаловой" title="Комикс Стряпаем истории с Сашей Миткаловой" src="/wa-data/public/shop/products/65/26/302665/images/276124/452104090_komiks-stryapaem-istorii.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Стряпаем истории с Сашей Миткаловой</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">18,40 Br</span>
+                        <meta itemprop="price" content="18.4">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302665">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Стряпаем истории с Сашей Миткаловой теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-rasteniya-protiv-zombi-perepolokh-na-ozere/" title="Комикс Растения против зомби. Переполох на озере">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Растения против зомби. Переполох на озере" title="Комикс Растения против зомби. Переполох на озере" src="/wa-data/public/shop/products/64/26/302664/images/276123/452104089_komiks-rasteniya-protiv.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Растения против зомби. Переполох на озере</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">20,80 Br</span>
+                        <meta itemprop="price" content="20.8">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302664">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Растения против зомби. Переполох на озере теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/nastolnaya-igra-karkasson-korolevskiy-podarok/" title="Настольная игра Каркассон. Королевский подарок">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Настольная игра Каркассон. Королевский подарок" title="Настольная игра Каркассон. Королевский подарок" src="/wa-data/public/shop/products/63/26/302663/images/276118/438397072_nastolnaya-igra-karkasson.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Настольная игра Каркассон. Королевский подарок</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">152,40 Br</span>
+                        <meta itemprop="price" content="152.4">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302663">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Настольная игра Каркассон. Королевский подарок теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/nastolnaya-igra-karkasson-2019/" title="Настольная игра Каркассон (2019)">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Настольная игра Каркассон (2019)" title="Настольная игра Каркассон (2019)" src="/wa-data/public/shop/products/62/26/302662/images/276117/388255553_nastolnaya-igra-karkasson.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Настольная игра Каркассон (2019)</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">76 Br</span>
+                        <meta itemprop="price" content="76">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302662">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Настольная игра Каркассон (2019) теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/nastolnaya-igra-pes-poputal-x-teddy-food/" title="Настольная игра Пес Попутал x Teddy Food">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Настольная игра Пес Попутал x Teddy Food" title="Настольная игра Пес Попутал x Teddy Food" src="/wa-data/public/shop/products/61/26/302661/images/276115/451925548_nastolnaya-igra-pes.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Настольная игра Пес Попутал x Teddy Food</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">43,60 Br</span>
+                        <meta itemprop="price" content="43.6">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302661">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Настольная игра Пес Попутал x Teddy Food теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/artbuk-bezmolvnyy-tanets-izmenchivykh-prostranstv/" title="Артбук Безмолвный танец изменчивых пространств">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Артбук Безмолвный танец изменчивых пространств" title="Артбук Безмолвный танец изменчивых пространств" src="/wa-data/public/shop/products/59/26/302659/images/276113/451925546_artbuk-bezmolvnyj-tanets.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Артбук Безмолвный танец изменчивых пространств</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">40,70 Br</span>
+                        <meta itemprop="price" content="40.7">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302659">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Артбук Безмолвный танец изменчивых пространств теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/nastolnaya-igra-bumazhki-na-lbu/" title="Настольная игра Бумажки на Лбу">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Настольная игра Бумажки на Лбу" title="Настольная игра Бумажки на Лбу" src="/wa-data/public/shop/products/60/26/302660/images/276114/451925547_nastolnaya-igra-bumazhki.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Настольная игра Бумажки на Лбу</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">48 Br</span>
+                        <meta itemprop="price" content="48">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302660">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Настольная игра Бумажки на Лбу теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/komiks-mayor-grom-i-krasnaya-furiya-tom-7-v-serdtse-tmy/" title="Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы" title="Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы" src="/wa-data/public/shop/products/58/26/302658/images/276112/451925545_komiks-major-grom.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">23,20 Br</span>
+                        <meta itemprop="price" content="23.2">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302658">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Комикс Майор Гром и Красная Фурия. Том 7. В сердце тьмы теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-lyubov-korolya-tom/" title="Книга Любовь короля. Том">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга Любовь короля. Том" title="Книга Любовь короля. Том" src="/wa-data/public/shop/products/56/26/302656/images/276110/451925543_kniga-lyubov-korolya.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга Любовь короля. Том</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">34,80 Br</span>
+                        <meta itemprop="price" content="34.8">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302656">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга Любовь короля. Том теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-deti-runy-uinterer-zimniy-mech-kniga-1/" title="Книга Дети Руны. Уинтерер. Зимний меч. Книга 1">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга Дети Руны. Уинтерер. Зимний меч. Книга 1" title="Книга Дети Руны. Уинтерер. Зимний меч. Книга 1" src="/wa-data/public/shop/products/57/26/302657/images/276111/451925544_kniga-deti-runy.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга Дети Руны. Уинтерер. Зимний меч. Книга 1</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">20,80 Br</span>
+                        <meta itemprop="price" content="20.8">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302657">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга Дети Руны. Уинтерер. Зимний меч. Книга 1 теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-svetlyy-pepel-luny-kniga-1/" title="Книга Светлый пепел луны. Книга 1">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга Светлый пепел луны. Книга 1" title="Книга Светлый пепел луны. Книга 1" src="/wa-data/public/shop/products/55/26/302655/images/276109/451925542_kniga-svetlyj-pepel.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга Светлый пепел луны. Книга 1</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">20,80 Br</span>
+                        <meta itemprop="price" content="20.8">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302655">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга Светлый пепел луны. Книга 1 теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-world-of-warcraft-rassvet-aspektov/" title="Книга World of Warcraft. Рассвет Аспектов">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга World of Warcraft. Рассвет Аспектов" title="Книга World of Warcraft. Рассвет Аспектов" src="/wa-data/public/shop/products/54/26/302654/images/276108/451925541_kniga-world-of.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга World of Warcraft. Рассвет Аспектов</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">22,10 Br</span>
+                        <meta itemprop="price" content="22.1">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302654">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга World of Warcraft. Рассвет Аспектов теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/kniga-blagie-znameniya-kollektsionnoe-izdanie-oformlenie-azirafaelya/" title="Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля" title="Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля" src="/wa-data/public/shop/products/53/26/302653/images/276107/451925540_kniga-blagie-znameniya.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">30,30 Br</span>
+                        <meta itemprop="price" content="30.3">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302653">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Книга Благие знамения. Коллекционное издание. Оформление Азирафаэля теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/sketchbuk-woorie/" title="Скетчбук Woorie">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Скетчбук Woorie" title="Скетчбук Woorie" src="/wa-data/public/shop/products/52/26/302652/images/276106/451925539_sketchbuk-woorie.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Скетчбук Woorie</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">19,50 Br</span>
+                        <meta itemprop="price" content="19.5">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302652">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Скетчбук Woorie теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+        <li itemscope itemtype ="http://schema.org/Product">
+
+        <a href="/product/nastolnaya-igra-13-privideniy/" title="Настольная игра 13 Привидений">
+            <div class="image">
+                <div class="badge-wrapper">
+                                                            <img itemprop="image" alt="Настольная игра 13 Привидений" title="Настольная игра 13 Привидений" src="/wa-data/public/shop/products/51/26/302651/images/276104/403427247_nastolnaya-igra-13.jpg.200.jpg">
+                </div>
+            </div>
+            <h5>
+                <span itemprop="name">Настольная игра 13 Привидений</span>
+            </h5>
+                    </a>
+                <div itemprop="offers" class="offers" itemscope itemtype="http://schema.org/Offer">
+                            <form class="purchase addtocart"  method="post" action="/cart/add/">
+                    <div class="pricing">
+                                                <span class="price nowrap">14,60 Br</span>
+                        <meta itemprop="price" content="14.6">
+                        <meta itemprop="priceCurrency" content="BYN">
+                    </div>
+                    <input type="hidden" name="product_id" value="302651">
+                    <input type="submit" onclick="yaCounter46885242.reachGoal ('push_button'); return true;" value="Купить">
+                    <i class="adding2cart"></i>
+                                        <span class="added2cart" style="display: none;">Настольная игра 13 Привидений теперь <a href="/cart/"><strong>в вашей корзине покупок</strong></a></span>
+                </form>
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+            </li>
+</ul>
+
+
+        </section>
+
+    
+</div>
+
+<div class="clear-both"></div>
+
+<!-- WELCOME note -->
+    <figure class="olives">
+        <div class="olives-left">
+        <div class="olives-right">
+            <div class="olives-content">
+                Магазин комиксов в Минске - comix.by предлагает вашему вниманию комиксы на русском языке от таких издателей, как Marvel, DC Comics, Image Comics, Dark Horse, Disney и другие. Осуществляем курьерскую доставку по Минску и почтовые отправления по все Беларуси. Комиксы можно забрать самому по адресу Минск, улица Кальварийская 1 после предварительного заказа и подтверждения. Купить комиксы в нашем магазине просто, достаточно выбрать понравившейся комикс, добавить его в корзину и оформить заказ или позвонить нам по телефону +375 33 615-01-53. Следите за новостями нашего магазина - подписывайтесь на рассылку!
+            </div>
+        </div>
+        </div>
+    </figure>
+
+<!-- ON SALE product list -->
+
+<!-- BLOG posts -->
+
+        
+
+    <div class="clear-both"></div>
+
+</div>
+
+
+<div class="clear-both"></div>
+
+<div id="dialog" class="dialog">
+    <div class="dialog-background"></div>
+    <div class="dialog-window">
+        <!-- common part -->
+        <div class="cart">
+
+        </div>
+        <!-- /common part -->
+
+    </div>
+</div>
+
+
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="globalfooter">
+        <div class="container">
+
+            
+                <div class="footer-block contact-us">
+
+                    <div class="social">
+                                                                                                                                                                    </div>
+
+                                            <a href="mailto:inmedia-by@yandex.ru">inmedia-by@yandex.ru</a>
+                        <strong>+375 29 6150153</strong>
+                    
+                </div>
+
+
+                                    <div class="footer-block">
+                        <a href="/" class="top">Магазин</a>
+                        <a href="/cart/">Корзина</a>
+                        <a href="/checkout/">Оформить заказ</a>
+                    </div>
+                
+                                <div class="footer-block mailer-subscribe">
+                    <a href="#" class="top">Подписаться</a>
+                    <form action="/mail/subscribe/" id="mailer-subscribe-form" target="mailer-subscribe-iframe">
+                        <input type="email" name="email" placeholder="your@email.here">
+                        <input type="submit" value="Подписаться" class="small">
+                    </form>
+                    <iframe id="mailer-subscribe-iframe" name="mailer-subscribe-iframe" src="javascript:true" style="width:0;height:0;border:0px solid #666;float:right;background: #666;"></iframe>
+                    <p style="display:none" id="mailer-subscribe-thankyou"><i>Спасибо! Будем держать вас в курсе.</i></p>
+                </div>
+                            
+            <div class="clear-both"></div>
+
+            
+        </div>
+
+        <div class="container">
+            <div class="appfooter">
+                <div class="copyright">
+                    &copy; 2024
+                    <a href="/">comix.by</a>
+                </div>
+                <td><img alt="" src="http://comix.by/wa-data/public/photos/18/00/18.13e3d28cbc22bdc91380a9d39de19a76/18.970.png" /></td>
+
+
+                            </div>
+        </div>
+
+    </footer>
+    
+    </body>
+</html>

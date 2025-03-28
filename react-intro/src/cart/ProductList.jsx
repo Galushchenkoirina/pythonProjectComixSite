@@ -1,7 +1,7 @@
 import React from 'react';
-import { useCart } from './CartContext'; // Убедитесь, что путь к вашему контексту правильный
-import { Link } from 'react-router-dom'; // Импортируем Link для навигации
-import './ProductList.css';  // Импортируйте файл стилей
+import { useCart } from './CartContext';
+import { Link } from 'react-router-dom';
+import './ProductList.css';
 
 const ProductList = () => {
     const { cart, updateQuantity, removeFromCart } = useCart(); // Используем cart вместо cartItems

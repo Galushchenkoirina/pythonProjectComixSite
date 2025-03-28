@@ -78,11 +78,11 @@
     color: white; /* Цвет текста кнопки */
     text-decoration: none; /* Убираем подчеркивание */
     border-radius: 5px; /* Закругленные углы кнопки */
-    transition: background-color 0.3s; /* Плавный переход цвета фона */
+    transition: background-color 0.5s; /* Плавный переход цвета фона */
 }
 
 .checkout-button:hover {
-    background-color: #218838; /* Цвет кнопки оформления заказа при наведении */
+    background-color: #ffc107; /* Цвет кнопки оформления заказа при наведении */
 }
 
 

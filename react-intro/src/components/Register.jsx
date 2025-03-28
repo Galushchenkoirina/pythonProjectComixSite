@@ -1,15 +1,16 @@
 import React, { useState } from 'react';
-import { useAuth } from './AuthContext'; // Убедитесь, что путь к вашему контексту правильный
+import { useAuth } from './AuthContext';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import './LogReg.css'; // Импорт стилей
+import './LogReg.css';
 
-const Register = () => {
+const Register = ({ onRegister }) => { // Добавляем пропс onRegister
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
     const [error, setError] = useState('');
     const { setIsAuthenticated } = useAuth();
     const navigate = useNavigate();
+    const { register } = useAuth();
 
     const handleRegister = async (e) => {
         e.preventDefault();
@@ -24,6 +25,8 @@ const Register = () => {
             // Если регистрация успешна, обновите состояние аутентификации
             if (response.status === 201) {
                 setIsAuthenticated(true); // Установите состояние аутентификации в true
+                register(username);
+                // onRegister(username); // Вызываем onRegister с именем пользователя
                 navigate('/'); // Перенаправьте на главную страницу или другую защищенную страницу
             }
         } catch (error) {
@@ -70,4 +73,3 @@ const Register = () => {
 };
 
 export default Register;
-

@@ -1,9 +1,8 @@
-// import React from 'react';
 import './index.css';
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import {Link} from 'react-router-dom';
-import { useCart } from './cart/CartContext'; // Импортируйте ваш CartContext
+import { useCart } from './cart/CartContext';
 
 const HomePage = () => {
     const [images, setImages] = useState([]); // Массив для хранения всех изображений
@@ -17,7 +16,7 @@ const HomePage = () => {
                 const response = await axios.get('http://localhost:8000/api/');
                 if (response.data && response.data.length > 0) {
                     // Берем первые 12 изображений
-                    setImages(response.data.slice(0, 12));
+                    setImages(response.data.slice(0, 8));
                 } else {
                     setError('Изображения не найдены.');
                 }
@@ -56,8 +55,8 @@ const HomePage = () => {
             </aside>
             <div className='home-page' style={{ textAlign: 'center', width: '100%' }}>
                 <h1>Магазин комиксов в Минске.</h1>
-                <p>Поступления каждую неделю.</p>
-                <p>Новинки этой недели.</p>
+                <h2>Поступления каждую неделю.</h2>
+                <h3>Новинки этой недели.</h3>
             </div>
             {images.length > 0 ? (
                 images.map((image) => (

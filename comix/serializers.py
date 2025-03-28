@@ -32,14 +32,10 @@ class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
     @classmethod
     def get_token(cls, user):
         token = super().get_token(user)
-
-        # Добавление дополнительного поля email в токен
-        # token['email'] = user.email
         return token
 
     def validate(self, attrs):
         data = super().validate(attrs)
-        # Дополнительная валидация, если необходимо
         return data
 
 
@@ -56,7 +52,6 @@ class OrderSerializer(serializers.ModelSerializer):
         fields = ['id', 'name', 'address', 'phone', 'email', 'payment_method', 'delivery_method', 'total', 'items']
 
     def create(self, validated_data):
-        # Создаем заказ с переданными данными
         order = Order.objects.create(**validated_data)
         return order
 

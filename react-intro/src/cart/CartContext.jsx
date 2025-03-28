@@ -1,5 +1,5 @@
 import React, { createContext, useState, useContext } from 'react';
-import Product from './Product';
+
 
 // Создаем контекст корзины
 const CartContext = createContext();

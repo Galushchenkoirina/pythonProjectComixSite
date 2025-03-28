@@ -273,7 +273,7 @@ p {
     font-size: 16px; /* Размер шрифта */
     cursor: pointer; /* Указатель мыши */
     border-radius: 5px; /* Закругленные углы */
-    transition: background-color 0.3s; /* Плавный переход цвета */
+    transition: background-color 0.5s; /* Плавный переход цвета */
 }
 
 .buy-button:hover {
